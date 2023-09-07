@@ -1,0 +1,33 @@
+Data structures are fundamental concepts in computer science and are used to organize and manage data efficiently. Here are some of the key things that come under data structures:
+
+Arrays: A collection of elements, each identified by an index or a key, and stored at contiguous memory locations.
+
+Linked Lists: A linear collection of nodes, where each node points to the next node in the sequence.
+
+Stacks: A collection of elements with two main principal operations: push (adds an element to the collection) and pop (removes the most recently added element).
+
+Queues: A collection of elements that supports adding elements to the end (enqueue) and removing elements from the front (dequeue).
+
+Trees: A hierarchical data structure with a root value and zero or more child nodes, where each child itself is a tree.
+
+Graphs: A collection of nodes (vertices) and edges that connect pairs of nodes.
+
+Heaps: A specialized tree-based data structure that satisfies the heap property, where the key of each node is either always greater than or always less than the keys of its children.
+
+Hash Tables: A data structure that implements an associative array abstract data type, a structure that can map keys to values.
+
+Sets: A collection of elements, without any particular order, and no repeated values.
+
+Dictionaries: A collection of key-value pairs, where each key is associated with a value.
+
+Trie: An ordered tree data structure that is used to store a dynamic set or associative array where the keys are strings.
+
+Graph Algorithms: Algorithms that operate on graphs, such as depth-first search (DFS), breadth-first search (BFS), shortest path algorithms, and more.
+
+Sorting and Searching Algorithms: Techniques for arranging and finding elements in a data set.
+
+Dynamic Programming: A technique for solving complex problems by breaking them down into simpler subproblems.
+
+Complexity Analysis: The study of the efficiency of algorithms and data structures, usually in terms of time and space complexity.
+
+Recursion: A technique where a function calls itself as a subroutine, allowing it to be repeated several times.
